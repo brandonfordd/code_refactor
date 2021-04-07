@@ -43,4 +43,4 @@ THEN I find a concise, descriptive title
 Deployed Application: https://brandonfordd.github.io/horiseon_refactor/
 
 screenshot:
-![alt text](https://github.com/brandonfordd/portfolio/blob/main/images/webpage_screenshot.png?raw=true)
+![alt text](https://github.com/brandonfordd/portfolio/blob/main/images/horiseon_site.png?raw=true)
